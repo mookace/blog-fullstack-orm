@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "fzmvckjh",
+    "password": "HucZJEGemsZlLNICUdlhHp_XyVVQUgcO",
+    "database": "fzmvckjh",
+    "host": "satao.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "fzmvckjh",
+    "password": "HucZJEGemsZlLNICUdlhHp_XyVVQUgcO",
+    "database": "fzmvckjh",
+    "host": "satao.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "fzmvckjh",
+    "password": "HucZJEGemsZlLNICUdlhHp_XyVVQUgcO",
+    "database": "fzmvckjh",
+    "host": "satao.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
